@@ -1,8 +1,7 @@
-Martin Budianto
-Software Engineer | Backend Developer (.NET)
-Enterprise Application Developer
 
-# Hi, I'm Martin Budianto 👋
+# Hi, I'm Martin Budianto 
+Software Engineer | Backend Developer (.NET)
+Enterprise Application Developer👋
 
 Software Engineer with 3+ years of experience developing enterprise applications, backend systems, and business process automation.
 
